@@ -14,7 +14,7 @@ pip install cloud-translator
 
 ### Usage
 
-The library support GoogleTranslator, TencentTranslator, BaiduTranslator, where GoogleTranslator depends on [py-googletrans](https://github.com/ssut/py-googletrans) which not needs appid and appkey, but is not stable and probably blocked by google.
+The library supports GoogleTranslator, TencentTranslator, BaiduTranslator, where GoogleTranslator depends on [py-googletrans](https://github.com/ssut/py-googletrans) which not needs appid and appkey, but is not stable and probably blocked by google.
 
 TencentTranslator and BaiduTranslator are rewritted with reference to the offical demo script to support python 3.7 version
 
